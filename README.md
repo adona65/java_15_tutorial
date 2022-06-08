@@ -9,4 +9,7 @@ Contains tests and tutorials about java 15 new features.
 <br/>
 <br/>
 <u>Sources I used for java 15 training :</u>
-None (to be changed)
+- https://www.tutorialspoint.com
+- https://www.journaldev.com
+- https://www.baeldung.com
+- https://examples.javacodegeeks.com

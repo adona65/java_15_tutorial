@@ -31,6 +31,13 @@ public class _004_JvmChanges {
 	 */
 	
 	/*
+	 * Shenandoah
+	 * 
+	 * Shenandoah is an algorithm that reduces GC pause times by doing evacuation work concurrently with the running Java threads. 
+	 * Integrated in JDK 12 (JEP 189) , now this feature is promoted to the product in JDK 15.
+	 */
+	
+	/*
 	 * Helpful NullPointerException
 	 * 
 	 * Helpful NullPointerException is now enabled by default in Java 15.
