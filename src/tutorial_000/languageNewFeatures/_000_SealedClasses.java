@@ -9,7 +9,7 @@ public class _000_SealedClasses {
 		 * - A sealed class allow to declare which class can inherit from it using "permits" keyword.
 		 * - A class extending a sealed class must be declared as "sealed", "non-sealed" (another new keyword) or "final".
 		 * 
-		 * This behavior helps to finally manage a finite and determinable hierarchy of classes in inheritance tree. Let see bellow examples :
+		 * This behavior helps to finely manage a finite and determinable hierarchy of classes in inheritance tree. Let see bellow examples :
 		 * 
 		 	// Here, we define that "Person" class may be inherited only by "Employee" or "Manager" classes.
 		 	abstract sealed class Person permits Employee, Manager {}
